@@ -1,7 +1,7 @@
-# Created by Warda
+# Created by Wedad Saleh
 
 print("""Title: Khaleefa Tower
-Author: Warda""")
+Author: Wedad Saleh""")
 
 
 materials = ["vA"]*3 +["uC"]*2 +["uC"]*5 +["tE"]*5+["sG"]*5 +["rI"]*4 +["qCaCaC"]+["qCaCaC"]
@@ -21,5 +21,6 @@ print()
 print("""THANKS FOR CHECKING THIS CODE OUT
 
     Thanks for your likes,
-       You all are amazing!""") 
+       You all are amazing!
+       Wedad Saleh""") 
 
